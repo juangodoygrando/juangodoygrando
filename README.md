@@ -114,7 +114,7 @@ const juanIgnacio = {
     ╠═══════════════════════════════════════╣
     ║  User: juan_ignacio                   ║
     ║  Level: Junior Software Developer     ║
-    ║  Skills: [React, JS, CSS, PHP]        ║
+    ║  Skills: [React, JS, HTML, CSS]       ║
     ║  Projects: [CoderGym, A&E, Movix]     ║
     ║  Location: Barcelona, Spain           ║
     ║  Status: ● Online & Available         ║
